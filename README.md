@@ -1,4 +1,4 @@
-# Gemin Pro API woth Bun
+# Gemin Pro API with Bun
 
 ## Build
 
